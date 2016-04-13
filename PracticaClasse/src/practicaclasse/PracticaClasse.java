@@ -22,7 +22,7 @@ public class PracticaClasse {
     }
     
     public void cercantFallo(){
-        System.out.println("uauauauaua");
+        System.out.println("hkjhkjhkjh");
     }
     
     public static void main(String[] args) {
