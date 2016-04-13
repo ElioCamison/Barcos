@@ -14,16 +14,25 @@ public class PracticaClasse {
     public String msg(String msg){
         return msg;
     }
+    public int num (int num){
+        if(num!=0){
+            return num;
+        }
+        return 0;
+    }
     
     public void cercantFallo(){
-        System.out.println("uauauauaua");
+        System.out.println("hkjhkjhkjh");
     }
     
     public static void main(String[] args) {
         System.out.println("Hola Toni, com anams");
         PracticaClasse msg = new PracticaClasse();
-        System.out.println(msg.msg("I va bé"));
-        System.out.println(msg.msg("Idò hgg jhgj hgque duri!!!"));
+
+        System.out.println(msg.msg("I va malament"));
+        System.out.println(msg.msg("Idò que duri!!!"));
+        System.out.println(msg.num(3));
+
     }
     
 }
