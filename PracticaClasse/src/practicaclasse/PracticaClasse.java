@@ -23,7 +23,7 @@ public class PracticaClasse {
         System.out.println("Hola Toni, com anams");
         PracticaClasse msg = new PracticaClasse();
         System.out.println(msg.msg("I va bé"));
-        System.out.println(msg.msg("Idò que duri!!!"));
+        System.out.println(msg.msg("Idò hgg jhgj hgque duri!!!"));
     }
     
 }
