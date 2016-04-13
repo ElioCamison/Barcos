@@ -15,6 +15,10 @@ public class PracticaClasse {
         return msg;
     }
     
+    public void cercantFallo(){
+        System.out.println("uauauauaua");
+    }
+    
     public static void main(String[] args) {
         System.out.println("Hola Toni, com anams");
         PracticaClasse msg = new PracticaClasse();
